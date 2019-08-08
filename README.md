@@ -1,15 +1,15 @@
 # AWS-Certified-Cloud-Practitioner-Notes
 - Study Material
 	- **Courses**
-		- [AWS Certified Cloud Practitioner](https://www.udemy.com/aws-certified-cloud-practitioner-q)
+		- [AWS Certified Cloud Practitioner](https://www.udemy.com/aws-certified-cloud-practitioner-q) (Rating : 4.5, Students : 11000)
 			- More popular instructors
 			- Not so good content
-			- Less content (6 hrs)
+			- Less content (38 Lectures, 6 hrs)
 			- Cheap (Rs. 396)
-		- [AWS Certified Cloud Practitioner 2019](https://www.udemy.com/course/aws-certified-cloud-practitioner)
+		- [AWS Certified Cloud Practitioner 2019](https://www.udemy.com/course/aws-certified-cloud-practitioner) (Rating : 4.4, Students : 50000)
 			- Less popular instructors
 			- Better content
-			- Less content (12.5 hrs)
+			- Less content (86 Lectures, 12.5 hrs)
 			- Cheap (Rs. 1920)
 	- **Practice Exams**
 		- [AWS Certified Cloud Practitioner: 6 full practice tests 2019](https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-test)
