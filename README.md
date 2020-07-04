@@ -1,17 +1,45 @@
-# AWS-Certified-Cloud-Practitioner-Notes
-- Study Material
-	- **Courses**
-		- [AWS Certified Cloud Practitioner](https://www.udemy.com/aws-certified-cloud-practitioner-q) (Rating : 4.5, Students : 11000)
-			- More popular instructors
-			- Not so good content
-			- Less content (38 Lectures, 6 hrs)
-			- Cheap (Rs. 396)
-		- [AWS Certified Cloud Practitioner 2019](https://www.udemy.com/course/aws-certified-cloud-practitioner) (Rating : 4.4, Students : 50000)
-			- Less popular instructors
-			- Better content
-			- Less content (86 Lectures, 12.5 hrs)
-			- Cheap (Rs. 1920)
-	- **Practice Exams**
-		- [AWS Certified Cloud Practitioner: 6 full practice tests 2019](https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-test)
-			- 6 Practice Tests
-			- Cheap (Rs. 396)
+# AWS Certified Cloud Practitioner Notes
+- 40 Services out of 200+ AWS services
+- Cloud Computing
+  - CPU : Computing
+  - RAM : Memory
+  - Storage : Data
+  - Database : Structured Data
+  - Network : Routers, Switch, DNS server
+  - Traditional IT approach
+    - Problems
+      - Rent of Data Centre
+      - Power Supply, cooling , maintenance
+      - Hardware replacement
+      - Scaling
+      - Monitoring team
+      - Disasters like earthquake, fire, power shutdown
+    - Solution (Cloud)
+      - On-demand delivery of computing resources
+      - Pay as you go
+      - provisioning of computing resources in type, size and count
+      - almost instant access
+      - easily accessible components using interface for DB, VMs, etc
+  - Deployment Modes
+    - Private Cloud
+      - Rackspace
+    - Public Cloud
+      - Azure
+      - GCP
+      - AWS
+    - Hybrid Cloud
+  - Characteristics of Cloud Computing
+    - On-demand self service
+    - Broad network access
+    - Multi tenancy and resourse pooling
+    - Rapid elasticity and scalability
+    - Measured service (Pay as you go)
+  - Advantages
+    - Trade Capital Expense (CAPEX) for Operational Expense (OPEX)
+    - Benefit from massive economies of scale
+    - Stop guessing capacity
+    - Increased speed and agility
+    - Stop spending money running and maintaining data centres
+    - Go global in minutes
+  - Problems solved
+    - 
